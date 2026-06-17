@@ -1,0 +1,4009 @@
+{
+  "format": "lkphone-repo-keyed-index",
+  "version": 3,
+  "provider": "github",
+  "timestamp": 1781718169798,
+  "selectedScopes": [
+    "wechat_profile:paged_messages",
+    "wechat_profile:",
+    "world",
+    "lovespace",
+    "date_memory",
+    "bookstore",
+    "games",
+    "shop",
+    "x_app",
+    "phone_inspect",
+    "pixel_house",
+    "misc",
+    "settings"
+  ],
+  "items": [
+    {
+      "storage": "indexedDB",
+      "key": "book_chapters_eiaeux",
+      "checksum": "349e9cc1cfc4355e76e2ed5c988e1fc0c74f6bc4c753ee2c4ef77057449eed76",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 76261,
+      "encodedBytes": 43328,
+      "files": [
+        {
+          "path": "keys/indexedDB/book_chapters_eiaeux_751c604deeb5d7dc.json",
+          "index": 1,
+          "encodedBytes": 43328
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "bookstore_books",
+      "checksum": "7dd721a28f8f41c5e66de780af73b573814153d5a8875878ff28e73e3d90cfcc",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1743,
+      "encodedBytes": 1696,
+      "files": [
+        {
+          "path": "keys/indexedDB/bookstore_books_5ced97a1fba9f537.json",
+          "index": 1,
+          "encodedBytes": 1696
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "character_lifeline_1778844037493",
+      "checksum": "384585ce6c701fec9a0f7b77f649714ab8db007f4b632d977ec20c6a58706324",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 5137,
+      "encodedBytes": 2712,
+      "files": [
+        {
+          "path": "keys/indexedDB/character_lifeline_1778844037493_f890a75244575d71.json",
+          "index": 1,
+          "encodedBytes": 2712
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "character_lifeline_selected_character_id",
+      "checksum": "8ea8142320cda59cbce470c73b9fb4d7149021fbed1a1232b5aa091323d6e194",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 143,
+      "encodedBytes": 180,
+      "files": [
+        {
+          "path": "keys/indexedDB/character_lifeline_selected_character_id_4cb6d9dd962a0595.json",
+          "index": 1,
+          "encodedBytes": 180
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "character_lifeline_theme_mode",
+      "checksum": "e6f8cb46630aefa9470835c154d45f959dbc40d57f19899a555e5ff1fba50900",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 124,
+      "encodedBytes": 164,
+      "files": [
+        {
+          "path": "keys/indexedDB/character_lifeline_theme_mode_4b8cf99d596a30bb.json",
+          "index": 1,
+          "encodedBytes": 164
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "date_logs_1780449337525",
+      "checksum": "8859c7bde353b98f1050dc0fa96e24c4516eda1c3c134f10cc048151a4efd809",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 379,
+      "encodedBytes": 412,
+      "files": [
+        {
+          "path": "keys/indexedDB/date_logs_1780449337525_50fdab80a8a7e8af.json",
+          "index": 1,
+          "encodedBytes": 412
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "date_pending_logs_1780449337525",
+      "checksum": "f513b2d22894f8ef9e8473c55546f2be943e556e4d83bc4dcdf542807f8afa6c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 121,
+      "encodedBytes": 172,
+      "files": [
+        {
+          "path": "keys/indexedDB/date_pending_logs_1780449337525_a47aa8d09e7faae0.json",
+          "index": 1,
+          "encodedBytes": 172
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "date_sessions",
+      "checksum": "2e19ea8fc5dd8ca36942759de93ca48cadaad3d5dd22da881fc928628d25a5bf",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 408989,
+      "encodedBytes": 401380,
+      "files": [
+        {
+          "path": "keys/indexedDB/date_sessions_ba6e82bcc93951ee.json",
+          "index": 1,
+          "encodedBytes": 401380
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "gamehub_active_identity_id",
+      "checksum": "8e9d54dbbc7fa206a3c164b35db3bac4445c70eaa5dae40366fcf5c01af21952",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 129,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/indexedDB/gamehub_active_identity_id_d3c7b6c0e707821a.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "gamehub_current_game_saves_v1",
+      "checksum": "23f9d585ad3f43394063515c2a0309a97ff87f130f0f629373b382230020ab38",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 3782,
+      "encodedBytes": 1396,
+      "files": [
+        {
+          "path": "keys/indexedDB/gamehub_current_game_saves_v1_50f3e6ee6c70ef67.json",
+          "index": 1,
+          "encodedBytes": 1396
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "gamehub_turtle_soup_recent_prompts_v1",
+      "checksum": "016bab02d5180d01a1398ead7439d235e32b804fe344b1391870e235d3ee8c8f",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1162,
+      "encodedBytes": 1068,
+      "files": [
+        {
+          "path": "keys/indexedDB/gamehub_turtle_soup_recent_prompts_v1_683c0f06fb58cb6c.json",
+          "index": 1,
+          "encodedBytes": 1068
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "home_custom_icons",
+      "checksum": "aa57d4db3cc230e9c20e2c82ed4e46cee8bfe87a4d53f4c4c53999fea6bf40f0",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 2,
+      "originalBytes": 1718775,
+      "encodedBytes": 1510536,
+      "files": [
+        {
+          "path": "keys/indexedDB/home_custom_icons_2c1575f164c1b8b4/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/home_custom_icons_2c1575f164c1b8b4/part0002.json",
+          "index": 2,
+          "encodedBytes": 691336
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_anniversaries__1778844435133__1778844037493",
+      "checksum": "54bee1a3cb0b6db301890676523a4ebb6adfe6a8078a9478cdbb53068462e2d0",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 221,
+      "encodedBytes": 268,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_anniversaries__1778844435133__1778844037493_2ce601b96eff5418.json",
+          "index": 1,
+          "encodedBytes": 268
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_chess_matches__1778844435133__1778844037493",
+      "checksum": "8f8cbfb4f46f2562e7ff0e6f6c0c3ad10d4717dca9da8d43f6d2b1a634fd3894",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 10289,
+      "encodedBytes": 3464,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_chess_matches__1778844435133__1778844037493_023489a34285c8d9.json",
+          "index": 1,
+          "encodedBytes": 3464
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_chess_nav_state_v1",
+      "checksum": "b1dab63ebefe5d8ed828627d84d0297646c55dd07800bda339e814a5677f9daf",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 146,
+      "encodedBytes": 184,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_chess_nav_state_v1_2860aad3a94920c1.json",
+          "index": 1,
+          "encodedBytes": 184
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_chess_templates__1778844435133__1778844037493",
+      "checksum": "e5052098b570e6333342e74a082b585cb18fa966ef84d24d42392ae08aa8e535",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 7754,
+      "encodedBytes": 2692,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_chess_templates__1778844435133__1778844037493_c97401bac59bcfab.json",
+          "index": 1,
+          "encodedBytes": 2692
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_love_challenges__1778844435133__1778844037493",
+      "checksum": "e29ead9a33e3bd204d2589aeeabac68867e8cc862fc41c9ba4c7102b60e8e7ec",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1184,
+      "encodedBytes": 640,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_love_challenges__1778844435133__1778844037493_20693b78757f850f.json",
+          "index": 1,
+          "encodedBytes": 640
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_love_challenges__1778844435133__unbound",
+      "checksum": "1c455ef39783d32e5d87024c85cdb9e56634725f40dbffcca597afba4b5455a0",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1178,
+      "encodedBytes": 640,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_love_challenges__1778844435133__unbound_cc2b6468da9fa0df.json",
+          "index": 1,
+          "encodedBytes": 640
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_moods__1778844435133__1778844037493",
+      "checksum": "23e92dc5dbc12a2c9ae2ab98324437df99aa98bdf2b4ffb9b9cad2b7fac42a5b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 337,
+      "encodedBytes": 376,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_moods__1778844435133__1778844037493_88675d548b373e55.json",
+          "index": 1,
+          "encodedBytes": 376
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_nav_state_v1",
+      "checksum": "36f479ca4bfb5bd5b7ff1763443f2d72d02e7cd75fb80c42dee64cf0a0e88658",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 151,
+      "encodedBytes": 188,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_nav_state_v1_20c83345e5aaf456.json",
+          "index": 1,
+          "encodedBytes": 188
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_partner_bindings_v1",
+      "checksum": "2c178a4424b56f5e1631914ad322817f752b7956c5a74b17de8561f8d0fa3582",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 150,
+      "encodedBytes": 192,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_partner_bindings_v1_f9bbc1811f4a9b4a.json",
+          "index": 1,
+          "encodedBytes": 192
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_period_logs__1778844435133__1778844037493",
+      "checksum": "f18c962bda4b57d3d103c9eedb6a497998935829dc3c11c1fcca29e58487fd9d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 193,
+      "encodedBytes": 224,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_period_logs__1778844435133__1778844037493_535e34f1b5548323.json",
+          "index": 1,
+          "encodedBytes": 224
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_profile_state_by_user__1778844435133",
+      "checksum": "202b44885b7e0028d8de36194c085d036cdf01a3dca32b404ab19920e8d1834e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 286,
+      "encodedBytes": 296,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_profile_state_by_user__1778844435133_519d61d7f9f136f3.json",
+          "index": 1,
+          "encodedBytes": 296
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_public_couple_spaces__1778844435133__public_couples",
+      "checksum": "71583f9e57306c5a5bc018133e0e86a7c014e8a33e91571e547af066abf7e342",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 545,
+      "encodedBytes": 412,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_public_couple_spaces__1778844435133__public_couple_e24eca29209f6d50.json",
+          "index": 1,
+          "encodedBytes": 412
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "lovespace_tacit_quizzes__1778844435133__1778844037493",
+      "checksum": "bb90994ecab86f5a53d2d71de3831001b7e689568f2ce22b33001839f5887f98",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 682,
+      "encodedBytes": 672,
+      "files": [
+        {
+          "path": "keys/indexedDB/lovespace_tacit_quizzes__1778844435133__1778844037493_bef34bfdaeec6bd9.json",
+          "index": 1,
+          "encodedBytes": 672
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "music_comments",
+      "checksum": "1f9b91a0e2bd62845ed7dd1ff6341d75021075575d630eebd6680bb05d2e90b1",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 5,
+      "originalBytes": 3973599,
+      "encodedBytes": 3987628,
+      "files": [
+        {
+          "path": "keys/indexedDB/music_comments_508cb9d2538d985a/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/music_comments_508cb9d2538d985a/part0002.json",
+          "index": 2,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/music_comments_508cb9d2538d985a/part0003.json",
+          "index": 3,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/music_comments_508cb9d2538d985a/part0004.json",
+          "index": 4,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/music_comments_508cb9d2538d985a/part0005.json",
+          "index": 5,
+          "encodedBytes": 710828
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "music_recently_played",
+      "checksum": "831b6fab3c4e9f34deab76d67b1ec19762c4c188f815af3ed96fb4f962b76543",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 2731,
+      "encodedBytes": 1784,
+      "files": [
+        {
+          "path": "keys/indexedDB/music_recently_played_a1827f7434817747.json",
+          "index": 1,
+          "encodedBytes": 1784
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_account",
+      "checksum": "a96e7fc43d69cea2cb702ee75c962341d1eda1e94f3b997ff407c1d76cb98076",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 162,
+      "encodedBytes": 192,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_account_eb31b834e01e7fc3.json",
+          "index": 1,
+          "encodedBytes": 192
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_active_image_profile_id",
+      "checksum": "c59822c8a9724b4ac58864c7c3db8f9fdb2e8f8a8c6636364783a12b1db00783",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 127,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_active_image_profile_id_b16378e816884af4.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_active_voice_profile_id",
+      "checksum": "f8cfca9bcc4c0741d9254aa0303eb51be85b396713533aee2327d7bf52e83c81",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 127,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_active_voice_profile_id_cc0de92ed704a6e3.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_ai_pending_results",
+      "checksum": "ac3abee32ad096e0acecc55e94230216a679f12f6a3aee437fe00fe857613ce8",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 115,
+      "encodedBytes": 160,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_ai_pending_results_362065d544377a2c.json",
+          "index": 1,
+          "encodedBytes": 160
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_ai_profiles",
+      "checksum": "c7333edc2395f0a4d72f311d0f5fb043f41b531cdfc2348d1a8a49cd6a356fd1",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1192,
+      "encodedBytes": 700,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_ai_profiles_ea61794a5bbef2cc.json",
+          "index": 1,
+          "encodedBytes": 700
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_calendar_events",
+      "checksum": "d4efc071fa2fcafcde5ad8ac18dab2bc81a5a14bb21ac4d5bc7985eaca60740e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 438,
+      "encodedBytes": 500,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_calendar_events_0153c99f28b7d9a9.json",
+          "index": 1,
+          "encodedBytes": 500
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_custom_fonts",
+      "checksum": "2631e112458ec3bb4c2621ff6134823a5a75c8f00b352adc0407848023ae9f66",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 127,
+      "originalBytes": 147147466,
+      "encodedBytes": 103577180,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0002.json",
+          "index": 2,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0003.json",
+          "index": 3,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0004.json",
+          "index": 4,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0005.json",
+          "index": 5,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0006.json",
+          "index": 6,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0007.json",
+          "index": 7,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0008.json",
+          "index": 8,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0009.json",
+          "index": 9,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0010.json",
+          "index": 10,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0011.json",
+          "index": 11,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0012.json",
+          "index": 12,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0013.json",
+          "index": 13,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0014.json",
+          "index": 14,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0015.json",
+          "index": 15,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0016.json",
+          "index": 16,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0017.json",
+          "index": 17,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0018.json",
+          "index": 18,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0019.json",
+          "index": 19,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0020.json",
+          "index": 20,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0021.json",
+          "index": 21,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0022.json",
+          "index": 22,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0023.json",
+          "index": 23,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0024.json",
+          "index": 24,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0025.json",
+          "index": 25,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0026.json",
+          "index": 26,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0027.json",
+          "index": 27,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0028.json",
+          "index": 28,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0029.json",
+          "index": 29,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0030.json",
+          "index": 30,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0031.json",
+          "index": 31,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0032.json",
+          "index": 32,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0033.json",
+          "index": 33,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0034.json",
+          "index": 34,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0035.json",
+          "index": 35,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0036.json",
+          "index": 36,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0037.json",
+          "index": 37,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0038.json",
+          "index": 38,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0039.json",
+          "index": 39,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0040.json",
+          "index": 40,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0041.json",
+          "index": 41,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0042.json",
+          "index": 42,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0043.json",
+          "index": 43,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0044.json",
+          "index": 44,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0045.json",
+          "index": 45,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0046.json",
+          "index": 46,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0047.json",
+          "index": 47,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0048.json",
+          "index": 48,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0049.json",
+          "index": 49,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0050.json",
+          "index": 50,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0051.json",
+          "index": 51,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0052.json",
+          "index": 52,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0053.json",
+          "index": 53,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0054.json",
+          "index": 54,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0055.json",
+          "index": 55,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0056.json",
+          "index": 56,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0057.json",
+          "index": 57,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0058.json",
+          "index": 58,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0059.json",
+          "index": 59,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0060.json",
+          "index": 60,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0061.json",
+          "index": 61,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0062.json",
+          "index": 62,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0063.json",
+          "index": 63,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0064.json",
+          "index": 64,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0065.json",
+          "index": 65,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0066.json",
+          "index": 66,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0067.json",
+          "index": 67,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0068.json",
+          "index": 68,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0069.json",
+          "index": 69,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0070.json",
+          "index": 70,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0071.json",
+          "index": 71,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0072.json",
+          "index": 72,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0073.json",
+          "index": 73,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0074.json",
+          "index": 74,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0075.json",
+          "index": 75,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0076.json",
+          "index": 76,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0077.json",
+          "index": 77,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0078.json",
+          "index": 78,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0079.json",
+          "index": 79,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0080.json",
+          "index": 80,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0081.json",
+          "index": 81,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0082.json",
+          "index": 82,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0083.json",
+          "index": 83,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0084.json",
+          "index": 84,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0085.json",
+          "index": 85,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0086.json",
+          "index": 86,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0087.json",
+          "index": 87,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0088.json",
+          "index": 88,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0089.json",
+          "index": 89,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0090.json",
+          "index": 90,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0091.json",
+          "index": 91,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0092.json",
+          "index": 92,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0093.json",
+          "index": 93,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0094.json",
+          "index": 94,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0095.json",
+          "index": 95,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0096.json",
+          "index": 96,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0097.json",
+          "index": 97,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0098.json",
+          "index": 98,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0099.json",
+          "index": 99,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0100.json",
+          "index": 100,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0101.json",
+          "index": 101,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0102.json",
+          "index": 102,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0103.json",
+          "index": 103,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0104.json",
+          "index": 104,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0105.json",
+          "index": 105,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0106.json",
+          "index": 106,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0107.json",
+          "index": 107,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0108.json",
+          "index": 108,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0109.json",
+          "index": 109,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0110.json",
+          "index": 110,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0111.json",
+          "index": 111,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0112.json",
+          "index": 112,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0113.json",
+          "index": 113,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0114.json",
+          "index": 114,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0115.json",
+          "index": 115,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0116.json",
+          "index": 116,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0117.json",
+          "index": 117,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0118.json",
+          "index": 118,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0119.json",
+          "index": 119,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0120.json",
+          "index": 120,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0121.json",
+          "index": 121,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0122.json",
+          "index": 122,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0123.json",
+          "index": 123,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0124.json",
+          "index": 124,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0125.json",
+          "index": 125,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0126.json",
+          "index": 126,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_custom_fonts_b706f1b4ac358529/part0127.json",
+          "index": 127,
+          "encodedBytes": 357980
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_custom_plugins",
+      "checksum": "409b261544c98b0f60e1a1b6530a75141b23e2567caba6841e24cee7a893283e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 88040,
+      "encodedBytes": 25032,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_custom_plugins_0dcb936ac6f255b9.json",
+          "index": 1,
+          "encodedBytes": 25032
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_image_ai_profiles",
+      "checksum": "cd4c3403498308611d16dfd9e33cfe57f978639e61b65d9085587f9a95586ec0",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1198,
+      "encodedBytes": 704,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_image_ai_profiles_db0b96045fb3af7c.json",
+          "index": 1,
+          "encodedBytes": 704
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_pet_data",
+      "checksum": "23051b635c97d391b470a0ceb64d7ed0fda1411da49a6cc3c054958c2fa5ab06",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 2555,
+      "encodedBytes": 944,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_pet_data_eacdad2df0623f29.json",
+          "index": 1,
+          "encodedBytes": 944
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_storage_metadata_v1",
+      "checksum": "bfd2437e052a78f7c0ad4082d4b1fbaf45b719b83e9718f58249050767956a74",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 23982,
+      "encodedBytes": 4584,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_storage_metadata_v1_38993f6ac46a2867.json",
+          "index": 1,
+          "encodedBytes": 4584
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_user",
+      "checksum": "233af1d2fbe6ad02ae04c86687100f5584815d689693db079db95b3057cf59cc",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 6,
+      "originalBytes": 4355254,
+      "encodedBytes": 4316184,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0002.json",
+          "index": 2,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0003.json",
+          "index": 3,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0004.json",
+          "index": 4,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0005.json",
+          "index": 5,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/noiros_user_70f609d588a6d925/part0006.json",
+          "index": 6,
+          "encodedBytes": 220184
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_wechat_applied_result_keys",
+      "checksum": "4c1d795855af9006d139b73acc321833d89f90501356059c208fd83af75aee39",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 36294,
+      "encodedBytes": 12124,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_wechat_applied_result_keys_05ca0a93984e56da.json",
+          "index": 1,
+          "encodedBytes": 12124
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_wechat_processing_result_keys",
+      "checksum": "732a28ef73121516c190c6cd8ec0428f05ba427c7511ded4d54a1b6f37a1b92f",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 126,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_wechat_processing_result_keys_0e6e382ad563234a.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "noiros_world_books",
+      "checksum": "1854de7bd62767816409f4b737c3a86aa9cc4c83ddfe7ce50a24f024a4dbc6d1",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 180492,
+      "encodedBytes": 99588,
+      "files": [
+        {
+          "path": "keys/indexedDB/noiros_world_books_99648b9d95912c99.json",
+          "index": 1,
+          "encodedBytes": 99588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "phone_inspect_archives",
+      "checksum": "7f0c3d337bfacb0d2acaffd12fe2a3b6677a3d5f05314e77d4682fd67e1a1a2a",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 16053,
+      "encodedBytes": 6288,
+      "files": [
+        {
+          "path": "keys/indexedDB/phone_inspect_archives_800390a5116a3ed7.json",
+          "index": 1,
+          "encodedBytes": 6288
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "shop_products",
+      "checksum": "f60e381bee055862a0a5bf9b8775de76532efdaa7db57c3fafadfec5aa612598",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 509,
+      "encodedBytes": 428,
+      "files": [
+        {
+          "path": "keys/indexedDB/shop_products_467213007d230a83.json",
+          "index": 1,
+          "encodedBytes": 428
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "shop_user_cart",
+      "checksum": "d674fab2979bd3f36ee08d0d93f6c7264f766e7886a6167c1d94478ab935c416",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 222,
+      "encodedBytes": 264,
+      "files": [
+        {
+          "path": "keys/indexedDB/shop_user_cart_6527ee94cb914dfd.json",
+          "index": 1,
+          "encodedBytes": 264
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_active_profile",
+      "checksum": "2ce304e157b5214ca0d276a54ef7da7e792512daf858b7772b9558bd19822ca3",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 584071,
+      "encodedBytes": 548584,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_active_profile_5aa77f7924250ee8.json",
+          "index": 1,
+          "encodedBytes": 548584
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_blocked_1778844435133",
+      "checksum": "7cb7254a8f0e921d0164871ba530601380fbe981f9703ebea9a74933eb389411",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 133,
+      "encodedBytes": 188,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_blocked_1778844435133_b405e706db55e75b.json",
+          "index": 1,
+          "encodedBytes": 188
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_chats_1778844435133",
+      "checksum": "ec0943b684d8eca610b0571dc8b6d89e6beadede211f2977dbd41244c048e17c",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 6,
+      "originalBytes": 4349941,
+      "encodedBytes": 4248932,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0002.json",
+          "index": 2,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0003.json",
+          "index": 3,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0004.json",
+          "index": 4,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0005.json",
+          "index": 5,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0006.json",
+          "index": 6,
+          "encodedBytes": 152932
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_contacts_1778844435133",
+      "checksum": "bc10f75de226dddadf9c8e71b52f33731c749900e34c8f2f2c5157153c387a2c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 153635,
+      "encodedBytes": 118620,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_contacts_1778844435133_78b2a46faf026928.json",
+          "index": 1,
+          "encodedBytes": 118620
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_deleted_moment_ids_1778844435133",
+      "checksum": "6170d14615d82453fad28091e745b9f29545f44be1425311f98a8dba6dc7d8c8",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 144,
+      "encodedBytes": 192,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_deleted_moment_ids_1778844435133_e463ea2eaf7711e3.json",
+          "index": 1,
+          "encodedBytes": 192
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_favorites_1778844435133",
+      "checksum": "4e3e88f0ab1fa128facb3fb3ef8b012ccc2ed53558da5b65ab2dfff586952aa8",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 221,
+      "originalBytes": 179811766,
+      "encodedBytes": 180422636,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0002.json",
+          "index": 2,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0003.json",
+          "index": 3,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0004.json",
+          "index": 4,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0005.json",
+          "index": 5,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0006.json",
+          "index": 6,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0007.json",
+          "index": 7,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0008.json",
+          "index": 8,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0009.json",
+          "index": 9,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0010.json",
+          "index": 10,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0011.json",
+          "index": 11,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0012.json",
+          "index": 12,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0013.json",
+          "index": 13,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0014.json",
+          "index": 14,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0015.json",
+          "index": 15,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0016.json",
+          "index": 16,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0017.json",
+          "index": 17,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0018.json",
+          "index": 18,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0019.json",
+          "index": 19,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0020.json",
+          "index": 20,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0021.json",
+          "index": 21,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0022.json",
+          "index": 22,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0023.json",
+          "index": 23,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0024.json",
+          "index": 24,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0025.json",
+          "index": 25,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0026.json",
+          "index": 26,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0027.json",
+          "index": 27,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0028.json",
+          "index": 28,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0029.json",
+          "index": 29,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0030.json",
+          "index": 30,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0031.json",
+          "index": 31,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0032.json",
+          "index": 32,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0033.json",
+          "index": 33,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0034.json",
+          "index": 34,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0035.json",
+          "index": 35,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0036.json",
+          "index": 36,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0037.json",
+          "index": 37,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0038.json",
+          "index": 38,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0039.json",
+          "index": 39,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0040.json",
+          "index": 40,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0041.json",
+          "index": 41,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0042.json",
+          "index": 42,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0043.json",
+          "index": 43,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0044.json",
+          "index": 44,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0045.json",
+          "index": 45,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0046.json",
+          "index": 46,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0047.json",
+          "index": 47,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0048.json",
+          "index": 48,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0049.json",
+          "index": 49,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0050.json",
+          "index": 50,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0051.json",
+          "index": 51,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0052.json",
+          "index": 52,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0053.json",
+          "index": 53,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0054.json",
+          "index": 54,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0055.json",
+          "index": 55,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0056.json",
+          "index": 56,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0057.json",
+          "index": 57,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0058.json",
+          "index": 58,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0059.json",
+          "index": 59,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0060.json",
+          "index": 60,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0061.json",
+          "index": 61,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0062.json",
+          "index": 62,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0063.json",
+          "index": 63,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0064.json",
+          "index": 64,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0065.json",
+          "index": 65,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0066.json",
+          "index": 66,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0067.json",
+          "index": 67,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0068.json",
+          "index": 68,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0069.json",
+          "index": 69,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0070.json",
+          "index": 70,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0071.json",
+          "index": 71,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0072.json",
+          "index": 72,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0073.json",
+          "index": 73,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0074.json",
+          "index": 74,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0075.json",
+          "index": 75,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0076.json",
+          "index": 76,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0077.json",
+          "index": 77,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0078.json",
+          "index": 78,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0079.json",
+          "index": 79,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0080.json",
+          "index": 80,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0081.json",
+          "index": 81,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0082.json",
+          "index": 82,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0083.json",
+          "index": 83,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0084.json",
+          "index": 84,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0085.json",
+          "index": 85,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0086.json",
+          "index": 86,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0087.json",
+          "index": 87,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0088.json",
+          "index": 88,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0089.json",
+          "index": 89,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0090.json",
+          "index": 90,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0091.json",
+          "index": 91,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0092.json",
+          "index": 92,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0093.json",
+          "index": 93,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0094.json",
+          "index": 94,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0095.json",
+          "index": 95,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0096.json",
+          "index": 96,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0097.json",
+          "index": 97,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0098.json",
+          "index": 98,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0099.json",
+          "index": 99,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0100.json",
+          "index": 100,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0101.json",
+          "index": 101,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0102.json",
+          "index": 102,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0103.json",
+          "index": 103,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0104.json",
+          "index": 104,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0105.json",
+          "index": 105,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0106.json",
+          "index": 106,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0107.json",
+          "index": 107,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0108.json",
+          "index": 108,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0109.json",
+          "index": 109,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0110.json",
+          "index": 110,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0111.json",
+          "index": 111,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0112.json",
+          "index": 112,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0113.json",
+          "index": 113,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0114.json",
+          "index": 114,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0115.json",
+          "index": 115,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0116.json",
+          "index": 116,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0117.json",
+          "index": 117,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0118.json",
+          "index": 118,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0119.json",
+          "index": 119,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0120.json",
+          "index": 120,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0121.json",
+          "index": 121,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0122.json",
+          "index": 122,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0123.json",
+          "index": 123,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0124.json",
+          "index": 124,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0125.json",
+          "index": 125,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0126.json",
+          "index": 126,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0127.json",
+          "index": 127,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0128.json",
+          "index": 128,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0129.json",
+          "index": 129,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0130.json",
+          "index": 130,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0131.json",
+          "index": 131,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0132.json",
+          "index": 132,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0133.json",
+          "index": 133,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0134.json",
+          "index": 134,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0135.json",
+          "index": 135,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0136.json",
+          "index": 136,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0137.json",
+          "index": 137,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0138.json",
+          "index": 138,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0139.json",
+          "index": 139,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0140.json",
+          "index": 140,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0141.json",
+          "index": 141,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0142.json",
+          "index": 142,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0143.json",
+          "index": 143,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0144.json",
+          "index": 144,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0145.json",
+          "index": 145,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0146.json",
+          "index": 146,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0147.json",
+          "index": 147,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0148.json",
+          "index": 148,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0149.json",
+          "index": 149,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0150.json",
+          "index": 150,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0151.json",
+          "index": 151,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0152.json",
+          "index": 152,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0153.json",
+          "index": 153,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0154.json",
+          "index": 154,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0155.json",
+          "index": 155,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0156.json",
+          "index": 156,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0157.json",
+          "index": 157,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0158.json",
+          "index": 158,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0159.json",
+          "index": 159,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0160.json",
+          "index": 160,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0161.json",
+          "index": 161,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0162.json",
+          "index": 162,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0163.json",
+          "index": 163,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0164.json",
+          "index": 164,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0165.json",
+          "index": 165,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0166.json",
+          "index": 166,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0167.json",
+          "index": 167,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0168.json",
+          "index": 168,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0169.json",
+          "index": 169,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0170.json",
+          "index": 170,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0171.json",
+          "index": 171,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0172.json",
+          "index": 172,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0173.json",
+          "index": 173,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0174.json",
+          "index": 174,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0175.json",
+          "index": 175,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0176.json",
+          "index": 176,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0177.json",
+          "index": 177,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0178.json",
+          "index": 178,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0179.json",
+          "index": 179,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0180.json",
+          "index": 180,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0181.json",
+          "index": 181,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0182.json",
+          "index": 182,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0183.json",
+          "index": 183,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0184.json",
+          "index": 184,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0185.json",
+          "index": 185,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0186.json",
+          "index": 186,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0187.json",
+          "index": 187,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0188.json",
+          "index": 188,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0189.json",
+          "index": 189,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0190.json",
+          "index": 190,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0191.json",
+          "index": 191,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0192.json",
+          "index": 192,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0193.json",
+          "index": 193,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0194.json",
+          "index": 194,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0195.json",
+          "index": 195,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0196.json",
+          "index": 196,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0197.json",
+          "index": 197,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0198.json",
+          "index": 198,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0199.json",
+          "index": 199,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0200.json",
+          "index": 200,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0201.json",
+          "index": 201,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0202.json",
+          "index": 202,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0203.json",
+          "index": 203,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0204.json",
+          "index": 204,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0205.json",
+          "index": 205,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0206.json",
+          "index": 206,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0207.json",
+          "index": 207,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0208.json",
+          "index": 208,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0209.json",
+          "index": 209,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0210.json",
+          "index": 210,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0211.json",
+          "index": 211,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0212.json",
+          "index": 212,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0213.json",
+          "index": 213,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0214.json",
+          "index": 214,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0215.json",
+          "index": 215,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0216.json",
+          "index": 216,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0217.json",
+          "index": 217,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0218.json",
+          "index": 218,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0219.json",
+          "index": 219,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0220.json",
+          "index": 220,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/wechat_favorites_1778844435133_95ac3bf57d69682c/part0221.json",
+          "index": 221,
+          "encodedBytes": 198636
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_impersonation_user_snapshot",
+      "checksum": "7b3bd1e4a5c12b63618db9a2d2ce5051ee7385caec8c5f46c582f3d720aef6b9",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 126,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_impersonation_user_snapshot_6dec2e9b74b52865.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_index_1778844435133_1778844037493",
+      "checksum": "b1c1898301812c0350d95acbfd980608b61f4a052ea65d7aba9ff4368f4ac21f",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 369,
+      "encodedBytes": 328,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_index_1778844435133_1778844037493_a29c35417805776f.json",
+          "index": 1,
+          "encodedBytes": 328
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_index_1778844435133_1780263226105",
+      "checksum": "3b7e0553cd7e581911aff257012c307a92955b4705c99353d636322191935c2e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 289,
+      "encodedBytes": 276,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_index_1778844435133_1780263226105_609ef8d968209798.json",
+          "index": 1,
+          "encodedBytes": 276
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_index_1778844435133_1780281550460",
+      "checksum": "f2ae045e02a67b44235634a396d1380582e1e7a59d236fdf6a30f60f69eb4037",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 289,
+      "encodedBytes": 280,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_index_1778844435133_1780281550460_531b93d3f784696a.json",
+          "index": 1,
+          "encodedBytes": 280
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_index_1778844435133_1780781718711",
+      "checksum": "8352b65a9ec04e17dbe0938fb0271d3f7931d3fec519ef232b16169e60a44788",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 289,
+      "encodedBytes": 276,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_index_1778844435133_1780781718711_d91ca49287a299ea.json",
+          "index": 1,
+          "encodedBytes": 276
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_0",
+      "checksum": "2826e29005caef6d878cf89a23716169375f896b3d51267e9efbc8f1c467dc12",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 47968,
+      "encodedBytes": 9480,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_0_244490d9a47c4bf8.json",
+          "index": 1,
+          "encodedBytes": 9480
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_1",
+      "checksum": "0daa13ba8c704b339632a499ef833e675c1a808de9a8d584d465153012a7d5a9",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 49012,
+      "encodedBytes": 9756,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_1_42a6fe8169154b64.json",
+          "index": 1,
+          "encodedBytes": 9756
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_10",
+      "checksum": "7e214c85201c7678c861cc10248936fb5c5e75c00e025c7ed0bde47810514b80",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 50125,
+      "encodedBytes": 10628,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_10_0f40e77847b9b688.json",
+          "index": 1,
+          "encodedBytes": 10628
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_11",
+      "checksum": "491bdc4c9dc966805c4553e70ef88ee61791ad5538f8007f60fb97d7f09b57e1",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 49366,
+      "encodedBytes": 10332,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_11_5951cf0f23d56e10.json",
+          "index": 1,
+          "encodedBytes": 10332
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_12",
+      "checksum": "dc012584736759bae19096cb3c046f5601d457c0179b8e88de33fc0cab6520d8",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 45800,
+      "encodedBytes": 9468,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_12_de0bb568fdc765b6.json",
+          "index": 1,
+          "encodedBytes": 9468
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_13",
+      "checksum": "fe22f9de8cfe4247bcd95c223cdc937a29d0ba606f1596456962942062ade73c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 46653,
+      "encodedBytes": 10064,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_13_37f0acb808ab62fb.json",
+          "index": 1,
+          "encodedBytes": 10064
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_14",
+      "checksum": "866f73fadaecad10e69d8a1d49db628c9d9481c34c28b3b6e37b4ec0273cdaf6",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 50269,
+      "encodedBytes": 10484,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_14_5f8a53680629d209.json",
+          "index": 1,
+          "encodedBytes": 10484
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_15",
+      "checksum": "9ea55cec831e6439c039eb64ecfc71b81b141e4cde5de8a275e73f3bd7773067",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 47588,
+      "encodedBytes": 10844,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_15_dbc0e3a38b10ac57.json",
+          "index": 1,
+          "encodedBytes": 10844
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_16",
+      "checksum": "2ebcfdd4ecdad3e5efd4804d4b2a97b40296f2228505c5868121edffaf939ab7",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 18031,
+      "encodedBytes": 4088,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_16_7f65514a3e8fbd3b.json",
+          "index": 1,
+          "encodedBytes": 4088
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_2",
+      "checksum": "644fc3f91ccb670c9693fce39d9fafa0f54f97203d547f79eb4a7bbe168d641a",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 49845,
+      "encodedBytes": 9944,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_2_13d998823be3f620.json",
+          "index": 1,
+          "encodedBytes": 9944
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_3",
+      "checksum": "f99d84ddba6ac857b2b5ac7f5523e3793f57dab2e8b2c49bfb267f77d628d6b5",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 50153,
+      "encodedBytes": 10968,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_3_6991f825fb37f078.json",
+          "index": 1,
+          "encodedBytes": 10968
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_4",
+      "checksum": "c1f116f9bdc91143ffa47411f643f71c8dd89441a5a758f6663fd5fde55cb5e4",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 49538,
+      "encodedBytes": 11176,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_4_3d768817645fe4a1.json",
+          "index": 1,
+          "encodedBytes": 11176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_5",
+      "checksum": "807860589ba8ae9c8734abb1bd4c01a07be94cd9afc723b0ed0f2954f7db5429",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 50038,
+      "encodedBytes": 10196,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_5_c4a13c406b53e1bc.json",
+          "index": 1,
+          "encodedBytes": 10196
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_6",
+      "checksum": "8313e4cadd96126a12fd5d994507edf6bea69fc11e69d87bdcbd4c750f5ec71d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 50122,
+      "encodedBytes": 10096,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_6_db555355e0ccf5ed.json",
+          "index": 1,
+          "encodedBytes": 10096
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_7",
+      "checksum": "1d69950022cadbfa6d396988b434effef1e97e3d1011a664b3e72ea990d1ab6c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 51535,
+      "encodedBytes": 11384,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_7_8d19f9d59d66db20.json",
+          "index": 1,
+          "encodedBytes": 11384
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_8",
+      "checksum": "415840410c7d470a666ba5684df5100cb42093699f85e4751e945459e5c92deb",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 46015,
+      "encodedBytes": 9432,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_8_583c4ed77dae7c59.json",
+          "index": 1,
+          "encodedBytes": 9432
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_9",
+      "checksum": "422e801f4b672d2c9eb6fc05a6d88d2b2c631bc909ce16ed82acc636abae691b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 46741,
+      "encodedBytes": 10068,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_9_2ccddd0f4c068f8f.json",
+          "index": 1,
+          "encodedBytes": 10068
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_moment_context_bridge_1778844435133",
+      "checksum": "434a172a8274279ed97d6768387b83e1d398a2a23411d9cb39c07649bdab75e5",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 132,
+      "encodedBytes": 180,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_moment_context_bridge_1778844435133_3ebd9546fd3a6df4.json",
+          "index": 1,
+          "encodedBytes": 180
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_moment_context_bridge_me",
+      "checksum": "dd952a0d2969bddc0197a60073bbdc028108a44db8b72f99b30ce1b11b956237",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 789,
+      "encodedBytes": 788,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_moment_context_bridge_me_d88f96028c487f81.json",
+          "index": 1,
+          "encodedBytes": 788
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_moment_daily_summaries_1778844435133",
+      "checksum": "deb3b4acd993ebda534a330c3d693a7094ad00a53447522e62d374b6a489beb5",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 133,
+      "encodedBytes": 184,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_moment_daily_summaries_1778844435133_b3d42307fe5715ab.json",
+          "index": 1,
+          "encodedBytes": 184
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_moments_global",
+      "checksum": "3dd1c1a2b98eddfd37c9795e59a890a9bfb762b56eb8d8a6e9195d2a40bbc3a2",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 36194,
+      "encodedBytes": 5392,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_moments_global_e37b5690b9609d3d.json",
+          "index": 1,
+          "encodedBytes": 5392
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_relationship_graphs_1778844435133",
+      "checksum": "5e7dd02c396c63d1d2519de103ec32f1d4aaf852fa48e74b4b8e1aeaec118777",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 604,
+      "encodedBytes": 464,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_relationship_graphs_1778844435133_1a9fb8193e170d55.json",
+          "index": 1,
+          "encodedBytes": 464
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_requests_1778844435133",
+      "checksum": "37e08458241fd0d45db7708776a1e3f1034a93fabf1f6fb2217c1fff83d922c7",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 119,
+      "encodedBytes": 172,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_requests_1778844435133_7e56665e1a8021f4.json",
+          "index": 1,
+          "encodedBytes": 172
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_synced_scene_ctx_1778844435133",
+      "checksum": "fd6325a73c749eb3432184039b70a9d191dd64d692de528be05dc392a2d15caa",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 127,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_synced_scene_ctx_1778844435133_07bf72a38beec232.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_synced_scene_ctx_1778844435133::1778844435133",
+      "checksum": "46cf2206129a74ed8a0d8d136fb593340e31faeed6c217edffa9bc18af6d638d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 4218,
+      "encodedBytes": 1792,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_synced_scene_ctx_1778844435133_1778844435133_21d6458787901d34.json",
+          "index": 1,
+          "encodedBytes": 1792
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_synced_scene_ctx_1778844435133::me",
+      "checksum": "d6762008052392f6c87436aad28d1ca619068325d3da3547ad5750991d37d7e9",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 4207,
+      "encodedBytes": 1792,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_synced_scene_ctx_1778844435133_me_18c39a3f1e9d937e.json",
+          "index": 1,
+          "encodedBytes": 1792
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_synced_scene_ctx_me::1778844435133",
+      "checksum": "fce5905dad81f83ea031a5d7736e4dfab98d599c8dda8272a31b45cc2916c546",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 4207,
+      "encodedBytes": 1792,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_synced_scene_ctx_me_1778844435133_e827dc1cf7a56e1b.json",
+          "index": 1,
+          "encodedBytes": 1792
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_synced_scene_ctx_me::me",
+      "checksum": "69cb2e97e567a5a3faa209d260bccca57b676e0a093cf01ab0e58762b6836a3d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 4196,
+      "encodedBytes": 1788,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_synced_scene_ctx_me_me_012a855cb800f7b3.json",
+          "index": 1,
+          "encodedBytes": 1788
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "world_ai_characters",
+      "checksum": "b81aaa7fc31968ab3da8b2acd41ce9df51b89b4f454d12c31b0931cc8ee8c8fd",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 171161,
+      "encodedBytes": 127768,
+      "files": [
+        {
+          "path": "keys/indexedDB/world_ai_characters_70523923f228aca0.json",
+          "index": 1,
+          "encodedBytes": 127768
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "world_user_identities",
+      "checksum": "c7e5517c2d5e215d92d80bf58de9e5ba77fd0084ae483bb68cfbc534a29cd677",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 584073,
+      "encodedBytes": 548588,
+      "files": [
+        {
+          "path": "keys/indexedDB/world_user_identities_41e6a265710bcdad.json",
+          "index": 1,
+          "encodedBytes": 548588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_dm_state_v1_1778844435133",
+      "checksum": "99534acc63e3e6c7a5b725a1895de554367c141c7c030bd9f04849fbd16f5e74",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 7748,
+      "encodedBytes": 3040,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_dm_state_v1_1778844435133_9a8ba864cbf6e6c5.json",
+          "index": 1,
+          "encodedBytes": 3040
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_dm_state_v1_1778844435133::slot_0",
+      "checksum": "a9c2a7b0b2817705f0c2467a9786b3ccd550255c712f8fcb170efa2251fa1c5b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 7756,
+      "encodedBytes": 3048,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_dm_state_v1_1778844435133_slot_0_beeb2a752cc93638.json",
+          "index": 1,
+          "encodedBytes": 3048
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_dm_state_v1_identity::nn",
+      "checksum": "7ea47b9eb7b08a92de2faf789822afd2a403e2e9990b8bd4ec9b91caec4fe35c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 126,
+      "encodedBytes": 172,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_dm_state_v1_identity_nn_1641f4505685af1b.json",
+          "index": 1,
+          "encodedBytes": 172
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_ACTIVE_DM_KEY",
+      "checksum": "cb14dcee2d08577249c93730db584a66553a3f371aafdc5d093fe328cb002a81",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 132,
+      "encodedBytes": 192,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_active_dm_key_a29868f7ab59e475.json",
+          "index": 1,
+          "encodedBytes": 192
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_ACTIVE_NPC_IDS",
+      "checksum": "ee7d205fb5795403eb242214dcd053e2d6726c31eef7e80eb085c8092c7c0838",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 147,
+      "encodedBytes": 208,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_active_npc_ids_0ec2fea52889b89d.json",
+          "index": 1,
+          "encodedBytes": 208
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_ACTIVE_ROLE_RATIO",
+      "checksum": "9d6f49cf6c7832e1338428171f2e5e1ec40727828fe20e5b0172a64ed4194659",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 114,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_active_role_ratio_62a4da8acb6ed225.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_AUTO_CLEAN_FOLLOWED",
+      "checksum": "7330ec48a9f3962586e10936f0a357b7ebd7ed807253d00f95733dfc578eb16c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 120,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_auto_clean_followed_bd0000a8716324b4.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_AUTO_CLEAN_NPC",
+      "checksum": "e1cf15955b8bf4a3184b88b7b8cf8836989c28b3fa3b93d251d1d4b252455aff",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 115,
+      "encodedBytes": 172,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_auto_clean_npc_3fb3a5ebded4479f.json",
+          "index": 1,
+          "encodedBytes": 172
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_BOTS",
+      "checksum": "aa10daa6d63bad9a2174653b28e74c1206f29e3374799be8b9e89be18bca242a",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 427,
+      "encodedBytes": 424,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_bots_192db45563805219.json",
+          "index": 1,
+          "encodedBytes": 424
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_COMMENT_QUANTITY",
+      "checksum": "f879ac99e7237a6d41442fe10764e0ffa411e20853960d593342c974a264f182",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 117,
+      "encodedBytes": 172,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_comment_quantity_534aa0ee99ffd215.json",
+          "index": 1,
+          "encodedBytes": 172
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_DM_POST_PROBABILITY",
+      "checksum": "d53d3fadbb4e5101a221b6d1aa97a635873be0a2b1be4f682aeafcca267eac51",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 118,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_dm_post_probability_0daa4205b342bad3.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_DM_REPLY_PROBABILITY",
+      "checksum": "cc67c585d0c6b0f7ba72d2400fce2822da4ffc5b086fdeab6fd7e21f0ea343e7",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 119,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_dm_reply_probability_4791db152fd95186.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_forum_events_v1",
+      "checksum": "28a66d0d6ebfb575090fb35e7da77ac7f0715a9afae5ee39f8a7d42e5f691f39",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 15994,
+      "encodedBytes": 5468,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_events_v1_0d70d127e797c531.json",
+          "index": 1,
+          "encodedBytes": 5468
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_HEAT_SCALE",
+      "checksum": "cce15cc6a5c19656db25f1a0a08d307a23864894a74a0bec625de09ba799938e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 109,
+      "encodedBytes": 164,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_heat_scale_ba3a4ffb408a9fd5.json",
+          "index": 1,
+          "encodedBytes": 164
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_LAST_AUTO_CLEAN_AT",
+      "checksum": "02de1c09e70eeb0f99c0759b71dbc11e425ab82d960cf2b9d98309bc96415de4",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 127,
+      "encodedBytes": 188,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_last_auto_clean_at_a58a93b9f52b1303.json",
+          "index": 1,
+          "encodedBytes": 188
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_forum_persistent_strangers_v1",
+      "checksum": "87d54158e3135ff4ff8b4f94cd8f8ab01a5fb8a8acb8f412b71a5d24a6359035",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 1292,
+      "encodedBytes": 744,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_persistent_strangers_v1_45e9b0e327227a97.json",
+          "index": 1,
+          "encodedBytes": 744
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_POST_QUANTITY",
+      "checksum": "f2de301b1a3f29645a727ea5d3b0c34ac4fc0dc8d8b2bcec540171c1c6096d73",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 114,
+      "encodedBytes": 168,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_post_quantity_31648f2d9a95e59f.json",
+          "index": 1,
+          "encodedBytes": 168
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "x_forum_state_v1",
+      "checksum": "2ef36e9fad5c89d5ee26d0836e440288844b3a5d03c8b0a9ddf47889cf463ad8",
+      "encoding": "gzip-base64",
+      "strategy": "split",
+      "totalParts": 2,
+      "originalBytes": 1103562,
+      "encodedBytes": 1073896,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_state_v1_d4463c972d359bb7/part0001.json",
+          "index": 1,
+          "encodedBytes": 819200
+        },
+        {
+          "path": "keys/indexedDB/x_forum_state_v1_d4463c972d359bb7/part0002.json",
+          "index": 2,
+          "encodedBytes": 254696
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_USER_INTERESTS",
+      "checksum": "b08e1671b3ae790b88b753a69f2cd999025997d7f5a275bcd24ca14aa1e22f8e",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 162,
+      "encodedBytes": 232,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_user_interests_28276b621a1ee07c.json",
+          "index": 1,
+          "encodedBytes": 232
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_FORUM_WORLDBOOK_IDS",
+      "checksum": "695342be82ab0de79d0b8740acb69835d8297e0f251fd9f4888b0d1c1f2524ec",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 174,
+      "encodedBytes": 220,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_forum_worldbook_ids_eb30376e5983133d.json",
+          "index": 1,
+          "encodedBytes": 220
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_17788444",
+      "checksum": "12939d369a10f84e71a0f5e63492c1cac556e5aa47c630f6bad19df412cceb4d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 363904,
+      "encodedBytes": 356236,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_17788444_0f29ae4751786a99.json",
+          "index": 1,
+          "encodedBytes": 356236
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_1778844435133",
+      "checksum": "69852fbeac66b27ef3d6cb018c7f2b63e0d73da78838450fc4c56743cf827772",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 363909,
+      "encodedBytes": 356236,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_1778844435133_d818f27fa8c55fd0.json",
+          "index": 1,
+          "encodedBytes": 356236
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_bot_1780084037455",
+      "checksum": "c5ad6d51240c5f084390580ff0ed9d8f22bb4b7f7b7d65b08fe91a4112196375",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 469,
+      "encodedBytes": 432,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_bot_1780084037455_936bb143f5187fd5.json",
+          "index": 1,
+          "encodedBytes": 432
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_nn",
+      "checksum": "34e12b3e46236eff00cd4c65fb7987c86c47fb7509e637ad3c6586fa4ba8d33f",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 363898,
+      "encodedBytes": 356236,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_nn_bb806734728c1be0.json",
+          "index": 1,
+          "encodedBytes": 356236
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780084219693_1_oog3i",
+      "checksum": "9a44a135bcb332bb632bffc107e0f214871f0992c2443ac5b505fd38efbe6ad8",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 502,
+      "encodedBytes": 588,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780084219693_1_oog3i_5fa115fed5e1ab69.json",
+          "index": 1,
+          "encodedBytes": 588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780084219693_2_s1gsj",
+      "checksum": "084a2450a27e9b33354af0f9dce414132a954ff62c946cf56ad2d3ca6973a16d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 499,
+      "encodedBytes": 588,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780084219693_2_s1gsj_1161aed4a4d71e63.json",
+          "index": 1,
+          "encodedBytes": 588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780262564439_1_leh2m",
+      "checksum": "7d8e2f15994a8afd9a0b30f9adca89e1679281d7ce5b6693d755c2a5acea1ad3",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 490,
+      "encodedBytes": 576,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780262564439_1_leh2m_4848c48e7a83f7a6.json",
+          "index": 1,
+          "encodedBytes": 576
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780262564439_2_cyfq9",
+      "checksum": "441d6a54043f45aa348c627defa18099616feb2375594c49ea35ba07a61831a2",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 493,
+      "encodedBytes": 588,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780262564439_2_cyfq9_8788d2fdc4e72284.json",
+          "index": 1,
+          "encodedBytes": 588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780597646587_1_5jhpd",
+      "checksum": "e4640c26e611ecd3b35e7856ed4bd3867e22933d2801a82266f79731626dddc0",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 493,
+      "encodedBytes": 584,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780597646587_1_5jhpd_0aa21c834545be34.json",
+          "index": 1,
+          "encodedBytes": 584
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780597646587_2_viz10",
+      "checksum": "b9cb54d72ef6e2f5cc9174f53f9b741fb26f662d8fc3044a7ef7a77db7eb649b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 499,
+      "encodedBytes": 588,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780597646587_2_viz10_f29de10545725124.json",
+          "index": 1,
+          "encodedBytes": 588
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "X_PROFILE_META_stranger_dm_1780597646587_3_hxeeu",
+      "checksum": "cfba082459fb153ae293517eb51f835dbe3c4d4f20d2ade66e42d24e2c123a00",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 490,
+      "encodedBytes": 584,
+      "files": [
+        {
+          "path": "keys/indexedDB/x_profile_meta_stranger_dm_1780597646587_3_hxeeu_647716ad9ab9d5b3.json",
+          "index": 1,
+          "encodedBytes": 584
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "app_update_version_shown",
+      "checksum": "ed377cf175cb62a3cb0dba09cf7598e54b93f045e2d59584343cfd5d869ffc38",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 127,
+      "encodedBytes": 164,
+      "files": [
+        {
+          "path": "keys/localStorage/app_update_version_shown_b15617046d6cadfc.json",
+          "index": 1,
+          "encodedBytes": 164
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "calendar_memory_planner_settings_v1",
+      "checksum": "d1fa30c788125a936aadbfc37f40ee7ca955d582fad5df412db9232e3fc4329b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 162,
+      "encodedBytes": 188,
+      "files": [
+        {
+          "path": "keys/localStorage/calendar_memory_planner_settings_v1_976481a46ce74156.json",
+          "index": 1,
+          "encodedBytes": 188
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "calendar_memory_prompt_settings_v1_me",
+      "checksum": "daee436a1897a70acf19382d358da9e371b1f79594fe2942e727ff432db3b716",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 176,
+      "encodedBytes": 200,
+      "files": [
+        {
+          "path": "keys/localStorage/calendar_memory_prompt_settings_v1_me_fc94693687fdaf4c.json",
+          "index": 1,
+          "encodedBytes": 200
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "fun_quiz_planet_drafts",
+      "checksum": "61b3aa87240bac452f59096d94a888fbc54ef576c52a81ff9f1a71e7d846a12f",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 117,
+      "encodedBytes": 160,
+      "files": [
+        {
+          "path": "keys/localStorage/fun_quiz_planet_drafts_264cb7e6e17085e7.json",
+          "index": 1,
+          "encodedBytes": 160
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "fun_quiz_planet_history",
+      "checksum": "5b7105a64806efd4c3d3517b57c1f79d5f059055d343c76a7836a5125086c43d",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 118,
+      "encodedBytes": 156,
+      "files": [
+        {
+          "path": "keys/localStorage/fun_quiz_planet_history_b0298324152e7cc6.json",
+          "index": 1,
+          "encodedBytes": 156
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "fun_quiz_planet_published",
+      "checksum": "42420af31ababa022e1b46fb8b826dba1aca39d503e8cedc719c9fb5555134a4",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 120,
+      "encodedBytes": 164,
+      "files": [
+        {
+          "path": "keys/localStorage/fun_quiz_planet_published_9c6c16ced6efd72c.json",
+          "index": 1,
+          "encodedBytes": 164
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "fun_quiz_planet_templates",
+      "checksum": "6b62321a169fc00e5236502b4a99ea6a5304e9e22e8149fffc8e8fbe62fd647b",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 473,
+      "encodedBytes": 392,
+      "files": [
+        {
+          "path": "keys/localStorage/fun_quiz_planet_templates_81ed7f9a057d4e15.json",
+          "index": 1,
+          "encodedBytes": 392
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "lk:statusbar-image-color:2116448927",
+      "checksum": "bf000585717eec226f6232939b503e0b230e678c3621e4bad966f00133505c4c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 135,
+      "encodedBytes": 176,
+      "files": [
+        {
+          "path": "keys/localStorage/lk_statusbar-image-color_2116448927_30dd228a6d5ce4a2.json",
+          "index": 1,
+          "encodedBytes": 176
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "lkphone_backend_service_configs_v1",
+      "checksum": "aa3eb7b1365a1f6184a03027118442a99684eb9ec705d910e0d5702760d5ccdf",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 871,
+      "encodedBytes": 456,
+      "files": [
+        {
+          "path": "keys/localStorage/lkphone_backend_service_configs_v1_3ee7960dd12c9be9.json",
+          "index": 1,
+          "encodedBytes": 456
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "noiros_active_profile_id",
+      "checksum": "e00e6ade85aa41eddc634d2e36a60cf85fc26e8055d7aa4f69d5452df7549f53",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 142,
+      "encodedBytes": 180,
+      "files": [
+        {
+          "path": "keys/localStorage/noiros_active_profile_id_f775e2e7d278cc35.json",
+          "index": 1,
+          "encodedBytes": 180
+        }
+      ]
+    },
+    {
+      "storage": "localStorage",
+      "key": "noiros_ai_active_tasks",
+      "checksum": "22b5c1dfb9fd7467900b6d1c45a208f880b5e9bde2f98434eba6ddde11874ed4",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 117,
+      "encodedBytes": 156,
+      "files": [
+        {
+          "path": "keys/localStorage/noiros_ai_active_tasks_4fc016876cb5563f.json",
+          "index": 1,
+          "encodedBytes": 156
+        }
+      ]
+    }
+  ]
+}
