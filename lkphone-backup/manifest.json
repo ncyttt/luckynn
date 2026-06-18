@@ -2,7 +2,7 @@
   "format": "lkphone-repo-keyed-index",
   "version": 3,
   "provider": "github",
-  "timestamp": 1781746958670,
+  "timestamp": 1781747148791,
   "selectedScopes": [
     "wechat_profile:paged_messages",
     "wechat_profile:",
@@ -1306,17 +1306,17 @@
     {
       "storage": "indexedDB",
       "key": "noiros_storage_metadata_v1",
-      "checksum": "646fdfed8d6af02b6221523de8c10cfd47171ea655be4b276bae6b1baf17a20d",
+      "checksum": "51d47a178928b8ee9e74b182cf1e3a0f79f2742a1bad2def8ff8281cedd55d6a",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
       "originalBytes": 24421,
-      "encodedBytes": 4628,
+      "encodedBytes": 4636,
       "files": [
         {
           "path": "keys/indexedDB/noiros_storage_metadata_v1_38993f6ac46a2867.json",
           "index": 1,
-          "encodedBytes": 4628
+          "encodedBytes": 4636
         }
       ]
     },
