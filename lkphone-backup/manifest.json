@@ -2,7 +2,7 @@
   "format": "lkphone-repo-keyed-index",
   "version": 3,
   "provider": "github",
-  "timestamp": 1781718169798,
+  "timestamp": 1781746958670,
   "selectedScopes": [
     "wechat_profile:paged_messages",
     "wechat_profile:",
@@ -56,17 +56,17 @@
     {
       "storage": "indexedDB",
       "key": "character_lifeline_1778844037493",
-      "checksum": "384585ce6c701fec9a0f7b77f649714ab8db007f4b632d977ec20c6a58706324",
+      "checksum": "3dd71595d9498b32988765467e5098efe6281ee361c2fd49838ce3a28fec7f60",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 5137,
-      "encodedBytes": 2712,
+      "originalBytes": 7512,
+      "encodedBytes": 3512,
       "files": [
         {
           "path": "keys/indexedDB/character_lifeline_1778844037493_f890a75244575d71.json",
           "index": 1,
-          "encodedBytes": 2712
+          "encodedBytes": 3512
         }
       ]
     },
@@ -1306,17 +1306,17 @@
     {
       "storage": "indexedDB",
       "key": "noiros_storage_metadata_v1",
-      "checksum": "bfd2437e052a78f7c0ad4082d4b1fbaf45b719b83e9718f58249050767956a74",
+      "checksum": "646fdfed8d6af02b6221523de8c10cfd47171ea655be4b276bae6b1baf17a20d",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 23982,
-      "encodedBytes": 4584,
+      "originalBytes": 24421,
+      "encodedBytes": 4628,
       "files": [
         {
           "path": "keys/indexedDB/noiros_storage_metadata_v1_38993f6ac46a2867.json",
           "index": 1,
-          "encodedBytes": 4584
+          "encodedBytes": 4628
         }
       ]
     },
@@ -1365,17 +1365,17 @@
     {
       "storage": "indexedDB",
       "key": "noiros_wechat_applied_result_keys",
-      "checksum": "4c1d795855af9006d139b73acc321833d89f90501356059c208fd83af75aee39",
+      "checksum": "578b939dcf8fa52203187b5c1ec50e1558678e95da61c6f9563831a2e776e6f2",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 36294,
-      "encodedBytes": 12124,
+      "originalBytes": 69239,
+      "encodedBytes": 28112,
       "files": [
         {
           "path": "keys/indexedDB/noiros_wechat_applied_result_keys_05ca0a93984e56da.json",
           "index": 1,
-          "encodedBytes": 12124
+          "encodedBytes": 28112
         }
       ]
     },
@@ -1467,17 +1467,17 @@
     {
       "storage": "indexedDB",
       "key": "wechat_active_profile",
-      "checksum": "2ce304e157b5214ca0d276a54ef7da7e792512daf858b7772b9558bd19822ca3",
+      "checksum": "fcf75145b8bd5441f88a995236cc9715614b4aa912c4ffe08d52a3eed3962a37",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 584071,
-      "encodedBytes": 548584,
+      "originalBytes": 582824,
+      "encodedBytes": 548528,
       "files": [
         {
           "path": "keys/indexedDB/wechat_active_profile_5aa77f7924250ee8.json",
           "index": 1,
-          "encodedBytes": 548584
+          "encodedBytes": 548528
         }
       ]
     },
@@ -1501,12 +1501,12 @@
     {
       "storage": "indexedDB",
       "key": "wechat_chats_1778844435133",
-      "checksum": "ec0943b684d8eca610b0571dc8b6d89e6beadede211f2977dbd41244c048e17c",
+      "checksum": "f0d6baf39829955467f9d940b59edb4cdc1180f4102d5510f37aef419b3959d0",
       "encoding": "gzip-base64",
       "strategy": "split",
       "totalParts": 6,
-      "originalBytes": 4349941,
-      "encodedBytes": 4248932,
+      "originalBytes": 4354747,
+      "encodedBytes": 4249192,
       "files": [
         {
           "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0001.json",
@@ -1536,7 +1536,7 @@
         {
           "path": "keys/indexedDB/wechat_chats_1778844435133_7af8437390e2821e/part0006.json",
           "index": 6,
-          "encodedBytes": 152932
+          "encodedBytes": 153192
         }
       ]
     },
@@ -2711,17 +2711,17 @@
     {
       "storage": "indexedDB",
       "key": "wechat_message_index_1778844435133_1778844037493",
-      "checksum": "b1c1898301812c0350d95acbfd980608b61f4a052ea65d7aba9ff4368f4ac21f",
+      "checksum": "097bad0842580b55cfb495e12baf52d1c0ae89d951c6f63109900064d7e122b3",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
       "originalBytes": 369,
-      "encodedBytes": 328,
+      "encodedBytes": 324,
       "files": [
         {
           "path": "keys/indexedDB/wechat_message_index_1778844435133_1778844037493_a29c35417805776f.json",
           "index": 1,
-          "encodedBytes": 328
+          "encodedBytes": 324
         }
       ]
     },
@@ -2915,17 +2915,51 @@
     {
       "storage": "indexedDB",
       "key": "wechat_message_pages_1778844435133_1778844037493_16",
-      "checksum": "2ebcfdd4ecdad3e5efd4804d4b2a97b40296f2228505c5868121edffaf939ab7",
+      "checksum": "7f5de0c7dd456652f28cb7a02d0095c01ddce90cc4e062eed630a98843846cac",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 18031,
-      "encodedBytes": 4088,
+      "originalBytes": 48459,
+      "encodedBytes": 9592,
       "files": [
         {
           "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_16_7f65514a3e8fbd3b.json",
           "index": 1,
-          "encodedBytes": 4088
+          "encodedBytes": 9592
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_17",
+      "checksum": "6c5679470550b52ed451561687d1e6e2e391845048774218bfa0ce8aa66edfd8",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 47210,
+      "encodedBytes": 9304,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_17_52454e8a140a6841.json",
+          "index": 1,
+          "encodedBytes": 9304
+        }
+      ]
+    },
+    {
+      "storage": "indexedDB",
+      "key": "wechat_message_pages_1778844435133_1778844037493_18",
+      "checksum": "9013be17ea85915ef96315f779c739584e388219a2e3fb9e021f7556854ccc8c",
+      "encoding": "gzip-base64",
+      "strategy": "single",
+      "totalParts": 1,
+      "originalBytes": 402,
+      "encodedBytes": 392,
+      "files": [
+        {
+          "path": "keys/indexedDB/wechat_message_pages_1778844435133_1778844037493_18_a55d2b74c8064150.json",
+          "index": 1,
+          "encodedBytes": 392
         }
       ]
     },
@@ -3255,34 +3289,34 @@
     {
       "storage": "indexedDB",
       "key": "world_ai_characters",
-      "checksum": "b81aaa7fc31968ab3da8b2acd41ce9df51b89b4f454d12c31b0931cc8ee8c8fd",
+      "checksum": "5c71db2d6bd87e60a12530b5acdad670185db4b42567b823b6b7724d76b25bcb",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 171161,
-      "encodedBytes": 127768,
+      "originalBytes": 172673,
+      "encodedBytes": 128664,
       "files": [
         {
           "path": "keys/indexedDB/world_ai_characters_70523923f228aca0.json",
           "index": 1,
-          "encodedBytes": 127768
+          "encodedBytes": 128664
         }
       ]
     },
     {
       "storage": "indexedDB",
       "key": "world_user_identities",
-      "checksum": "c7e5517c2d5e215d92d80bf58de9e5ba77fd0084ae483bb68cfbc534a29cd677",
+      "checksum": "7b606524172bf7b0cf8ee7994c874609b68643552863afe3fdb0f08c26e73206",
       "encoding": "gzip-base64",
       "strategy": "single",
       "totalParts": 1,
-      "originalBytes": 584073,
-      "encodedBytes": 548588,
+      "originalBytes": 582826,
+      "encodedBytes": 548536,
       "files": [
         {
           "path": "keys/indexedDB/world_user_identities_41e6a265710bcdad.json",
           "index": 1,
-          "encodedBytes": 548588
+          "encodedBytes": 548536
         }
       ]
     },
